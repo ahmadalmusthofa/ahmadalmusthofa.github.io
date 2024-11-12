@@ -11,3 +11,18 @@ body {
 section {
   padding-top: 4rem;
 }
+
+#contactMessages {
+  margin-top: 20px;
+}
+
+#messagesList {
+  padding-left: 0;
+}
+
+.list-group-item {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
